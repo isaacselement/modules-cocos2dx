@@ -1,3 +1,4 @@
-# Chinoiserie
 
-A cocos2d wrapper
+A cocos2dx wrapper
+
+
