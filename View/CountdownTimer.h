@@ -2,7 +2,7 @@
 #define __iCombos__CountdownTimer__
 
 #include "cocos2d.h"
-USING_NS_CC;
+using namespace cocos2d;
 
 class CountdownTimer : public Node
 {
